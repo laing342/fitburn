@@ -1,0 +1,7 @@
+﻿node_modules
+dist
+gen.py
+gen_files.py
+write_site.py
+*.local
+.DS_Store
